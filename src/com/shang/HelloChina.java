@@ -6,5 +6,7 @@ public class HelloChina {
 	}
 	public void add(){
 	}
+	public void update(){
+	}
 }
 
