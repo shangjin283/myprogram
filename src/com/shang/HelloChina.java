@@ -8,5 +8,7 @@ public class HelloChina {
 	}
 	public void update(){
 	}
+	public void delete(){
+	}
 }
 
